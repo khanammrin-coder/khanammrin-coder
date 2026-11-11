@@ -14,9 +14,16 @@ I connect great people with great roles, across tech and non-tech hiring. I take
 - 🌟 **Exceptional people for exciting roles.** If you're great at what you do, I'd love to talk, whatever your field
 
 ## 🔍 What I work on
-- End-to-end recruitment, from sourcing and screening to offer
-- Structured, fair screening using clear must-have criteria
-- HR initiatives and employee engagement programs
+I wear many hats, and I love every one of them:
+
+- 🎯 **Talent Acquisition.** Running hiring end to end, from sourcing and screening to the offer, with structured, fair evaluation at every step
+- 📈 **Benchmarking.** Built benchmarking from the ground up, so hiring and people decisions are backed by data, not guesswork
+- 📜 **People Policies.** Shaping the policies that make hiring consistent and fair
+- 🤝 **Employee Relations.** Being the person people can come to, and building trust across teams
+- ✨ **Employer & Company Branding.** Shaping how the outside world sees us, so great people want to join
+- 🎉 **People Engagement.** Designing initiatives that bring teams together, from wellness challenges to celebrations
+- 🏢 **Workplace Experience.** Transforming the office into a space people actually enjoy walking into
+- 🚀 **And much more.** If it makes this a better place to work, I'm probably part of it
 
 ## 🚀 Projects
 | Project | What it is |
