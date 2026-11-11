@@ -28,8 +28,8 @@ I wear many hats, and I love every one of them:
 ## 🚀 Projects
 | Project | What it is |
 |---|---|
-| [🎯 Recruiter Screening Prompts](https://github.com/khanammrin-coder/recruiter-screening-prompts) | A reusable AI prompt template for structured candidate screening, from resume scoring to post-interview evaluation |
-| [🚶 Walkathon Challenge 2026](https://khanammrin-coder.github.io/walkathon2026/) | An event microsite for a company-wide wellness challenge tracked on Strava |
+| [🎯Recruiter Screening Prompts](https://github.com/khanammrin-coder/recruiter-screening-prompts) | A reusable AI prompt template for structured candidate screening, from resume scoring to post-interview evaluation |
+| [🚶Walkathon Challenge 2026](https://khanammrin-coder.github.io/walkathon2026/) | An event microsite for a company-wide wellness challenge tracked on Strava |
 
 ## 🧰 Tools & Platforms
 **Platform-agnostic and fast to adapt.** From established ATS and HRIS platforms to the newest AI-powered hiring sites, I'm fluent in the modern recruitment landscape. Give me a tool I haven't used yet, and I'll master it fast.
